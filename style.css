@@ -1,8 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
 h1 {
 	color: cornflowerblue;
 	background-color: green;
 }
 
-h1 {
-	color: #5ccbe4
+h2 {
+	color: red;
+	background-color: darkseagreen;
+}
+
+.article_p {
+	font-size: 1.5rem;
+}
+
+footer {
+	font-size: 0.5rem;
+}
+
+img {
+	max-width: 100vw;
 }
